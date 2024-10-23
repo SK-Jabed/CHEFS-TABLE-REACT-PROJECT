@@ -1,15 +1,12 @@
 import './App.css'
 
-function App() {
-  
-
+const App = () => {
   return (
-    <>
-           
-      <h1>Vite + React</h1>
-      
-    </>
-  )
-}
+    <div>
+      {/* Navbar */}
+      {/* Banner */}
+    </div>
+  );
+};
 
-export default App
+export default App;

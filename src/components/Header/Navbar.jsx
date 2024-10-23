@@ -1,6 +1,6 @@
 const Navbar = () => {
     return (
-        <div className="flex justify-between items-center py-12 md: flex-col">
+        <div className="flex justify-between items-center py-12 flex-col md:flex-row">
             <div className="navbar-left">
             <h2 className="text-2xl font-bold">Chef<span className="text-red-500">'</span>s Table</h2>
             </div>

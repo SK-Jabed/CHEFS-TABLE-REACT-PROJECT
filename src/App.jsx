@@ -5,7 +5,7 @@ import OurRecipes from './components/Main/OurRecipes';
 
 const App = () => {
   return (
-    <div>
+    <div className='container mx-auto w-11/12'>
       {/* Navbar */}
       <Navbar></Navbar>
       {/* Banner */}

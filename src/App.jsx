@@ -4,7 +4,9 @@ const App = () => {
   return (
     <div>
       {/* Navbar */}
+      
       {/* Banner */}
+      {/* Our Recipes Section */}
     </div>
   );
 };

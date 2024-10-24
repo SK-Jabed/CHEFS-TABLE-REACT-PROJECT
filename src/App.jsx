@@ -13,15 +13,14 @@ const App = () => {
       {/* Banner */}
       <Banner></Banner>
       {/* Our Recipes Section */}
-      <OurRecipes>
-        {/* Recipe Cards Section */}
-        <section>
+      <OurRecipes></OurRecipes>
+      {/* Recipe Cards Section */}     
+      <section className='flex flex-col md:flex-row gap-6'>
           {/* Recipe Cards */}
           <RecipeCards></RecipeCards>
           {/* Sidebar */}
           <Sidebar></Sidebar>
-        </section>
-      </OurRecipes>
+      </section>
     </div>
   );
 };

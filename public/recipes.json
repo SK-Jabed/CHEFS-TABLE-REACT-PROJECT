@@ -1,0 +1,104 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "Spicy Chicken Curry",
+        "recipe_image": "https://i.ibb.co.com/VvxfnvW/curry-with-chicken-onions-indian-food-asian-cuisine.jpg",
+        "short_description": "A flavorful and spicy chicken curry with a mix of aromatic spices.",
+        "ingredients": [
+            "Chicken",
+            "Onions",
+            "Garlic",
+            "Tomatoes",
+            "Curry powder",
+            "Chili",
+            "Coconut milk"
+        ],
+        "preparing_time": 45,
+        "calories": 350
+    },
+    {
+        "recipe_id": 2,
+        "recipe_name": "Vegetarian Pasta Primavera",
+        "recipe_image": "https://i.ibb.co.com/7rJWjKn/top-view-sliced-vegetable-meal-with-different-ingredients-inside-plate-dark-blue-desk.jpg",
+        "short_description": "A light and healthy pasta dish with mixed seasonal vegetables.",
+        "ingredients": [
+            "Pasta",
+            "Bell peppers",
+            
+            "Cherry tomatoes",
+            "Olive oil",
+            "Parmesan cheese",
+            "Basil"
+        ],
+        "preparing_time": 30,
+        "calories": 280
+    },
+    {
+        "recipe_id": 3,
+        "recipe_name": "Classic Beef Burger",
+        "recipe_image": "https://i.ibb.co.com/tBvRHF9/juicy-cheeseburger-wooden-cutting-board.jpg",
+        "short_description": "A juicy and delicious beef burger with lettuce, tomato, and cheese.",
+        "ingredients": [
+            "Ground beef",
+            "Burger buns",
+            "Lettuce",
+            "Tomato",
+            "Cheddar cheese",
+            "Onions",
+            "Ketchup"
+        ],
+        "preparing_time": 25,
+        "calories": 450
+    },
+    {
+        "recipe_id": 4,
+        "recipe_name": "Creamy Mushroom Risotto",
+        "recipe_image": "https://i.ibb.co.com/3cwW5Bb/close-up-mushroom-risotto-white-bowl-with-spoon-napkin-table.jpg",
+        "short_description": "A creamy and rich risotto made with fresh mushrooms and Parmesan cheese.",
+        "ingredients": [
+            "Arborio rice",
+            "Mushrooms",
+            "Onions",
+            "Garlic",
+            "Parmesan cheese",
+            "White wine",
+            "Vegetable broth"
+        ],
+        "preparing_time": 50,
+        "calories": 320
+    },
+    {
+        "recipe_id": 5,
+        "recipe_name": "Grilled Salmon with Asparagus",
+        "recipe_image": "https://i.ibb.co.com/jzP8gs3/top-view-tasty-cooked-fish-with-fresh-vegetables-cutlery-dark-table.jpg",
+        "short_description": "A healthy grilled salmon fillet served with tender asparagus.",
+        "ingredients": [
+            "Salmon fillet",
+            "Asparagus",
+            "Lemon",
+            "Olive oil",
+            "Garlic",
+            "Salt",
+            "Pepper"
+        ],
+        "preparing_time": 35,
+        "calories": 400
+    },
+    {
+        "recipe_id": 6,
+        "recipe_name": "Chocolate Chip Cookies",
+        "recipe_image": "https://i.ibb.co.com/8z80VnV/plate-with-chocolate-cookies-top-view.jpg",
+        "short_description": "Soft and chewy chocolate chip cookies with a hint of vanilla.",
+        "ingredients": [
+            "Flour",
+            "Butter",
+            "Sugar",
+            "Brown sugar",
+            "Chocolate chips",
+            "Vanilla extract",
+            "Eggs"
+        ],
+        "preparing_time": 20,
+        "calories": 150
+    }
+]
